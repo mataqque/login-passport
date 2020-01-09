@@ -1,5 +1,5 @@
 const express = require('express');
-// const expressLayouts = require('ejs-mate');
+const expressLayouts = require('ejs-mate');
 const mongoose = require('mongoose');
 const passport = require('passport');
 const flash = require('connect-flash');
